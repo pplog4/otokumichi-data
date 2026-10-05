@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "snapshotVersion": 30,
+  "snapshotVersion": 36,
   "minimumAppVersion": "1.0.1",
-  "publishedAt": 1790985600,
-  "contentHash": "9b8b47f85ad40bc55a6c156a25dd8c1c2894737229e45eca96ea9206bf0a3afe",
-  "bytes": 2166087,
-  "path": "common-db/v30.json"
+  "publishedAt": 1791158400,
+  "contentHash": "ebeb4874e130b05829d10755ad28772785da45addbec369c844e3633189e6b8e",
+  "bytes": 2418726,
+  "path": "common-db/v36.json"
 }
